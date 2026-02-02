@@ -1,0 +1,6 @@
+Flask
+groq
+sqlalchemy
+python-dotenv
+pytz
+requests

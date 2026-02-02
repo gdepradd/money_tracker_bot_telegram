@@ -1,0 +1,7 @@
+# Abaikan file rahasia
+.env
+
+# Abaikan database lokal (biar gak menimpa/konflik)
+*.db
+*.sqlite3
+__pycache__/
