@@ -43,3 +43,4 @@ bot_tracker/
 ├── financial.db     # File database SQLite (Auto-generated)
 ├── requirements.txt # Daftar library python
 ├── .env             # Menyimpan API KEY (Rahasia)
+├── Readme.MD        # Dokumentasi 
